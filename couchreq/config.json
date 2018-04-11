@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "username": "USERNAME_GOES_HERE",
+        "password": "PASSWORD_GOES_HERE"
+    },
+    "urls": {
+        "base": "127.0.0.1",
+        "port": "5984"
+    }
+}
