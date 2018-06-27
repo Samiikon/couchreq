@@ -42,7 +42,7 @@ You can insert your admin username and password to `config.json`. Also if you wo
 
 ### Basic code example:
 ```
-import couchreq
+from couchreq import couchreq
 creq = couchreq.Couchreq()
 doc = creq.get_doc('exampledb', '123456789')
 ```
