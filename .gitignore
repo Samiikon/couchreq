@@ -1,1 +1,4 @@
-/couchreq/__pycache__
+couchreq/__pycache__
+couchreq.egg-info/
+*.pyc
+/.vscode/
