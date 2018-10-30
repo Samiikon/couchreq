@@ -35,7 +35,7 @@ It is meant to speed up tinkering with CouchDB in new projects, not to be used i
   
 ## Requirements
 - python 3
-- [requests](https://github.com/requests/requests) v. 2.18.14
+- [requests](https://github.com/requests/requests) v. 2.20.0
 
 ## Basic usage 
 You can insert your admin username and password to `config.json`. Also if you would like to use different url or port for your requests, it can be done in config.json as well. 
